@@ -1,11 +1,9 @@
+
 # Blinkit Data Analysis - Power BI Report
 
 ## Overview
 
-![Blinkit_Analysis_Image](https://github.com/user-attachments/assets/542bce2e-34da-4eeb-a86a-fe687da2005b)
-
 This project provides an in-depth analysis of Blinkit's sales data using Power BI. Blinkit, India's last-minute grocery delivery app, offers insights into various aspects of their business, such as total sales, item categories, outlet locations, and more. This report aims to provide data-driven insights for decision-making.
-
 
 ## Key Insights
 
@@ -54,6 +52,11 @@ The Power BI report file can be downloaded from the repository. It includes all 
 ## Technologies Used
 - **Power BI**: For data visualization and reporting.
 - **Data Source**: Blinkit's internal sales data.
+
+## Screenshot
+
+![Blinkit Analysis Report](https://github.com/user-attachments/assets/542bce2e-34da-4eeb-a86a-fe687da2005b)
+
 
 
 Feel free to explore the report and provide feedback!
